@@ -1,2 +1,2 @@
 Este es el contenido del fichero 1 
-En esta fase, se procede a la modificación del fichero para adapatarnos a los nuevos requisitos.
+En esta fase, se procede a la modificación del fichero para adapatarnos a los nuevos requerimientos 
